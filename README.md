@@ -1,2 +1,2 @@
-# Unveiling-the-Android-App-Maerket
+# Unveiling-the-Android-App-Market
 Eighth Task
